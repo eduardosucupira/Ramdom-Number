@@ -1,5 +1,5 @@
 # Number Generator
- <img src="/img/Capturar.gif" width="100%" alt="screen-shot"/>
+ <img src="Capturar.gif" width="100%" alt="screen-shot"/>
 
 ## Project setup
 ```
