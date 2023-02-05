@@ -1,4 +1,4 @@
-# Number Generator
+# [Number Generator](https://eduardosucupira.github.io/Ramdom-Number/).
  <img src="Capturar.gif" width="100%" alt="screen-shot"/>
 
 ## Project setup
